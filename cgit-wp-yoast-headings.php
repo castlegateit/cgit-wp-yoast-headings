@@ -3,7 +3,7 @@
 /*
 
 Plugin Name: Castlegate IT Yoast Heading Generator
-Plugin URI: http://github.com/castlegateit/cgit-yoast-headings
+Plugin URI: http://github.com/castlegateit/cgit-wp-yoast-headings
 Description: Generate overridable H1 headings from Yoast title data.
 Version: 2.1
 Author: Castlegate IT

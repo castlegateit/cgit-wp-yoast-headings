@@ -17,7 +17,7 @@ The plugin provides a function that can be used in your plugin or theme:
 You can also use the `YoastHeading` class directly:
 
 ~~~ php
-$yoastHeading = new \Cgit\Obfuscator\YoastHeading('My heading here');
+$yoastHeading = new \Cgit\YoastHeading\YoastHeading('My heading here');
 echo $yoastHeading->output(); // Comma-and-space separated string.
 ~~~
 

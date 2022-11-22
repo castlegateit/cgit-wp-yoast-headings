@@ -1,6 +1,6 @@
 # Castlegate IT WP Yoast Headings #
 
-**This plugin is no longer maintained. The [SEO Headings](https://github.com/castlegateit/cgit-wp-yoast-headings) plugin is now recommended instead.**
+**This plugin is no longer maintained. The [SEO Headings](https://github.com/castlegateit/cgit-wp-seo-headings) plugin is now recommended instead.**
 
 ***
 

@@ -1,6 +1,10 @@
 # Castlegate IT WP Yoast Headings #
 
-Castlegate IT WP Yoast Headings is a WordPress plugin that provides functionality to output text retrieved from Yoast's 
+**This plugin is no longer maintained. The [SEO Headings](https://github.com/castlegateit/cgit-wp-yoast-headings) plugin is now recommended instead.**
+
+***
+
+Castlegate IT WP Yoast Headings is a WordPress plugin that provides functionality to output text retrieved from Yoast's
 generated title tag and converted into comma-and-space separated text.
 
 The preference order for the generated heading is:
